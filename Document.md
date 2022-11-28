@@ -1,4 +1,4 @@
 # Loadstring
 ```bash
-  https://raw.githubusercontent.com/WellOfficial/UI-Loader/main/Library
+  local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/WellOfficial/UI-Loader/main/Library"))()
 ```
