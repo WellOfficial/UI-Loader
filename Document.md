@@ -1,4 +1,4 @@
 # Loadstring
 ```bash
-  npm run deployaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+  https://raw.githubusercontent.com/WellOfficial/UI-Loader/main/Library
 ```
